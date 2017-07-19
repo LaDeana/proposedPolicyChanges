@@ -2,7 +2,7 @@
 
 ## Getting a key
 1. Participate in a New Member Orientation and be an active member in good standing with MakeICT and all of its programs.
-2. Become part of the community by printing off and completing a [MemberKeyApplication](https://drive.google.com/a/makeict.org/file/d/0BzgGWgLj8XOXSDl6eVdoZUc1dWc/view?usp=sharing) that includes the following:
+2. Become part of the community by printing off and completing a [Key Application](https://drive.google.com/a/makeict.org/file/d/0BzgGWgLj8XOXSDl6eVdoZUc1dWc/view?usp=sharing) that includes the following:
 	* A few multiple-choice and short answer questions.
     * 6 signature fields to meet some members of our community:
         * 2 Board Members, 2 Area Leads or Deputies, and 2 Active Keyed Members
