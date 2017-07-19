@@ -1,8 +1,8 @@
 ## Change Key
-`+` Added line
-`-` Removed line
-`=` Line change with __things added__ and ~~things removed~~
-[Comment (Will not show up in final policy)]
+`+` Added line  
+`-` Removed line  
+`=` Line change with __things added__ and ~~things removed~~  
+[Comment (Will not show up in final policy)]  
 
 ## Policy
 
@@ -10,7 +10,7 @@
 
 ### `+` Getting a key
 1. Participate in a New Member Orientation and be an active member in good standing with MakeICT and all of its programs.
-2. `=` Become part of the community by ~~meeting people~~ __printing off__ and completing a [MemberKeyApplication](http://makeict.org/wiki/Template:MemberKeyApplication) __that includes the following:__ ~~.~~
+2. `=` Become part of the community by ~~meeting people~~ __printing off__ and completing a [MemberKeyApplication](https://drive.google.com/a/makeict.org/file/d/0BzgGWgLj8XOXSDl6eVdoZUc1dWc/view?usp=sharing) __that includes the following:__ ~~.~~
 	* `+` A few multiple-choice and short answer questions.
     * `=` ~~This application includes~~ 6 signature~~s~~ __fields to meet some members of our community__:
         * `=` 2 Board Members__, 2 Area Leads or Deputies, and 2 Active Keyed Members__ [Condensing to one line so that the final policy doesn't seem so messy.]
